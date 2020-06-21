@@ -24,7 +24,7 @@ h4.title {
 
 h4.title {
     text-transform: lowercase;
-    letter-spacing: 0.75rem;
+    letter-spacing: 0.5rem;
 }
 
 .subtitle,
@@ -37,7 +37,7 @@ form label {
 
 .navbar a {
     font-size: 1.5rem;
-    letter-spacing: 1rem;
+    letter-spacing: 0.5rem;
 }
 
 figure.image {

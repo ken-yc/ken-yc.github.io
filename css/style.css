@@ -17,7 +17,7 @@ body {
 h1.title,
 h4.title {
     text-transform: uppercase;
-    letter-spacing: 3rem;
+    letter-spacing: 1rem;
     color: #333;
     font-weight: 100;
 }

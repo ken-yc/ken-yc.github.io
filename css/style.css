@@ -63,6 +63,10 @@ figure.image {
     cursor: pointer;
 }
 
+.tile.is-ancestor {
+    justify-content: center;
+}
+
 #about p {
     color: #000;
     letter-spacing: 0.15rem;
@@ -75,4 +79,10 @@ figure.image {
     background-color: transparent;
     letter-spacing: 1rem;
     text-transform: uppercase;
+}
+
+@media screen and (min-width: 769px) {
+    .tile.is-parent {
+        max-width: 33.33%;
+    }
 }

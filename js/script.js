@@ -1,6 +1,5 @@
 
 var items = [   {src:'tom.png', name:'Langrisser: Trial of Morality', link:'https://nisamerica.com/langrisser-1-2/trial-of-morality/'},
-                {src:'sef.png', name:'Trails of Cold Steel III: Student Enrollment', link:'https://thelegendofheroes.com/tocs3/student-enrollment/'},
                 {src:'amm.png', name:'Disgaea 5: Alliance Match Maker', link:'http://disgaea.us/d5/alliance-match-maker/'},
                 {src:'rep.png', name:'Republique', link:'https://nisamerica.com/games/republique/'},
                 {src:'ros.png', name:'A Rose in the Twilight', link:'http://www.nisamerica.com/games/rose-in-the-twilight/'},
